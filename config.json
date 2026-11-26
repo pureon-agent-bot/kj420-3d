@@ -1,0 +1,21 @@
+{
+  "_comment": "Ссылки, цена и аналитика меняются здесь, без пересборки кода. Ссылки сняты со страницы pureon.kz/kj420 17.11.2026. Цена со скидкой и подарок — по решению владельца 21.11.2026; убрать акцию: oldPrice и gift сделать пустыми.",
+  "product": "PureOn KJ420F-A350",
+  "price": "216 000 ₸",
+  "oldPrice": "240 000 ₸",
+  "gift": "Воздушный фильтр в подарок",
+  "kaspiUrl": "https://kaspi.kz/shop/p/ochistitel-vozduha-pureon-kj420-a350-belyi-112596331/?c=750000000",
+  "whatsappPhone": "77715015818",
+  "whatsappText": "Здравствуйте! Есть вопрос по KJ420 (3D-презентация)",
+  "productPageUrl": "https://pureon.kz/kj420",
+  "ga4Id": "G-59E3S8GX27",
+  "modelUrl": "models/kj420.glb",
+  "iosModelUrl": "models/kj420.usdz",
+  "arModelUrl": "models/kj420_ar.glb",
+  "dimensionsCm": {
+    "height": 61,
+    "width": 41,
+    "depth": 25
+  },
+  "weightKg": 10
+}
